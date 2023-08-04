@@ -1,0 +1,5 @@
+
+{
+  "start": "node ./bin/www",
+  "watch": "nodemon ./bin/www --watch ./ --ext '*' localhost 3000"
+}
